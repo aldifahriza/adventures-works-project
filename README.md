@@ -20,7 +20,13 @@ The dataset used in this project is the AdventureWorks sample database, which co
 - Interactive filters and slicers for deeper data exploration
 
 ## Dashboard Preview
-(Add screenshots of your dashboard here)
+## Dashboard Preview
+
+![Sales Dashboard](Dashboard.png)
+
+![Product Analysis](Product.png)
+
+![Customer Analysis](Customer.png)
 
 ## Key Insights
 - Revenue trends can be tracked over time to identify peak sales periods.
